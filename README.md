@@ -1,6 +1,5 @@
-# DART Council - Exam Preparation Platform
-
-A modern, responsive web application built with React and Material UI for DART Council's exam preparation platform. This project serves as the MVP (Minimum Viable Product) with a clean, user-friendly interface and essential features.
+# DART Council - Platform for Job seekers
+A modern, responsive web application built with React and Material UI for DART Council's exam preparation platform. This project serves as the assignment for the frontend role at Dartcouncil.
 
 ## Features
 
