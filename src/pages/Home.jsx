@@ -59,7 +59,7 @@ const Home = () => {
             align="center"
             sx={{ mb: 4, opacity: 0.9 }}
           >
-            Your comprehensive platform for exam preparation and success
+            Your comprehensive platform for job seekers.
           </Typography>
           <Box sx={{ display: 'flex', justifyContent: 'center', gap: 2 }}>
             <Button
@@ -171,7 +171,7 @@ const Home = () => {
             color="text.secondary"
             sx={{ mb: 4 }}
           >
-            Join thousands of students who have already achieved their goals with DART Council.
+            Join thousands of job seekers who have already achieved their goals with DART Council.
           </Typography>
           <Box sx={{ display: 'flex', justifyContent: 'center' }}>
             <Button

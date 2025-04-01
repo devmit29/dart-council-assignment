@@ -10,7 +10,7 @@ const Footer = () => {
               DART Council
             </h6>
             <p className="text-sm text-gray-600 dark:text-gray-300">
-              Empowering students with comprehensive preparation resources.
+              Empowering job seekers with comprehensive preparation resources.
             </p>
           </div>
           

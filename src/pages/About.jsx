@@ -206,11 +206,10 @@ const About = () => {
             sx={{ 
               mb: 4,
               fontWeight: 600,
-              color: 'primary.main',
               fontSize: { xs: '2rem', md: '2.5rem' }
             }}
           >
-            About Us
+            Our Team
           </Typography>
           <Grid container spacing={4} justifyContent="center">
             {founders.map((founder, index) => (
@@ -224,11 +223,15 @@ const About = () => {
         {/* Timeline Section */}
         <Box>
           <Typography
-            variant="h4"
+            variant="h3"
             component="h2"
             align="center"
             gutterBottom
-            sx={{ mb: 6 }}
+            sx={{ 
+              mb: 4,
+              fontWeight: 600,
+              fontSize: { xs: '2rem', md: '2.5rem' }
+            }}
           >
             Our Journey
           </Typography>
